@@ -139,7 +139,7 @@ h3 {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  
 }
 
 .info {
@@ -200,7 +200,7 @@ footer {
 
 footer hr {
   width: 18rem; /* Ajusta el ancho de la línea según sea necesario */
-  height: 0.1rem; /* Ajusta el grosor de la línea según sea necesario */
+  height: 0.2rem; /* Ajusta el grosor de la línea según sea necesario */
   background-color: #177bbd; /* Cambia el color de la línea según sea necesario */
   border: none;
   margin: 0 auto 10px auto; /* Ajusta el margen según sea necesario */
@@ -215,8 +215,8 @@ footer img {
 
 
 footer img {
-  width: 50px;
-  height: 50px;
+  width: 30px;
+  height: 25px;
   margin: 0 10px;
 }
 
