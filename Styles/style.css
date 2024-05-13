@@ -137,11 +137,11 @@ h3 {
 }
 
 hr{
-  width: 58rem; /* Ajusta el ancho de la línea según sea necesario */
-  height: 0.2rem; /* Ajusta el grosor de la línea según sea necesario */
-  background-color: #Efb810; /* Cambia el color de la línea según sea necesario */
+  width: 68rem; 
+  height: 0.2rem; 
+  background-color: #Efb810; 
   border: none;
-  margin: 0 auto 10px auto; /* Ajusta el margen según sea necesario */
+  margin: 0 auto 10px auto; 
 }
 
 .card-cit {
